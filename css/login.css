@@ -1,0 +1,76 @@
+main {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
+
+.painel-login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 100%;
+  background-color: #ffffff;
+}
+
+.card {
+  width: 40%;
+}
+
+.card h1 {
+  text-align: center;
+  margin-bottom: 32px;
+  color: #535353;
+}
+
+.card input {
+  display: block;
+  width: 100%;
+  height: 40px;
+  margin-top: 16px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  padding-left: 8px;
+}
+
+.card button {
+  display: block;
+  width: 100%;
+  height: 40px;
+  margin-top: 16px;
+  background-color: #53c794;
+  color: white;
+  border: 0;
+  border-radius: 4px;
+}
+
+.card a {
+  display: block;
+  margin-top: 8px;
+  font-size: 14px;
+}
+
+.painel-imagem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  height: 100%;
+  background-color: #53c794;
+}
+
+.painel-imagem img {
+  width: 80%;
+}
+
+@media (max-width: 1024px) {
+  .painel-imagem {
+    display: none;
+  }
+  .painel-login {
+    width: 100%;
+  }
+  .card {
+    width: 70%;
+  }
+}
