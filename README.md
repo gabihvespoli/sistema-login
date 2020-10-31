@@ -1,7 +1,7 @@
 
 </p>
 <h1 align="center">
-    <img alt="Capa" title="#Sistema-login-index" src="./images.index_web.png" />
+    <img alt="Capa" title="#Sistema-login-index" src="./images/index_web.png" />
 </h1>
 
 <h4 align="center"> 
