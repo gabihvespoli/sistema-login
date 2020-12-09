@@ -27,12 +27,15 @@ A Recode é uma organização social que promove o empoderamento digital. Por me
 
 ## ⚙️ Funcionalidades
 
-- [x] qualquer usuário pode se cadastrar na plataforma web enviando:
+- [x] Cadastro
 
-  - [x] nome
-  - [x] imagem (para o perfil)
-  - [x] email
-  - [x] senha
+- [x] Login
+
+- [x] Logout
+
+- [x] Publicar textos (Postagens)
+
+- [x] Apagar conta (apaga todas as postagens)
 
 ---
 
@@ -84,8 +87,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 📝 Licença
+## 📝 Créditos
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Orgulhosamente feito durante as monitorias do curso de Full Stack da Recode Pro 2020, com auxílio do [Guilherme Avelino](https://github.com/Guilherme1612) e do [José Alisson](https://github.com/joseAllisson)
 
-Feito com ❤️ por Gabriela Vespoli 👋🏽 [Entre em contato!](https://www.linkedin.com/in/gabihvespoli/)
+Feito com ❤️ por Gabi Vespoli 
+👋🏽 [Entre em contato!](https://www.linkedin.com/in/gabihvespoli/)
